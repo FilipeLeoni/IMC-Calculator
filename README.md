@@ -17,7 +17,7 @@ Project in React + Typescript, making a BMI(IMC) calculator.
 
 <h3 id="start">🚀 Start</h3>
 
-[Click here to open !](https://react-calculator-seven-gold.vercel.app/) 🖩
+[Click here to open !](https://imc-calculator-pi.vercel.app/) 🖩
 
 
 <h3 id="access-project">📁 Access project</h3>
